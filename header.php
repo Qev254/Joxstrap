@@ -27,6 +27,7 @@ $navbar_type       = get_theme_mod( 'understrap_navbar_type', 'collapse' );
 <div class="site" id="page">
 
 	<!-- ******************* The Navbar Area ******************* -->
+	<!-- **** We can maybe go dark **** -->
 	<header id="wrapper-navbar">
 
 		<a class="skip-link <?php echo understrap_get_screen_reader_class( true ); ?>" href="#content">
