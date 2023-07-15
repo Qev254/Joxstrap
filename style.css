@@ -12,3 +12,9 @@
  Tags: one-column, custom-menu, featured-images, theme-options, translation-ready
  GitHub Theme URI: understrap/understrap-child
 */
+
+/* TEMP EDIT FOR HEADER BG */
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: black;
+}
