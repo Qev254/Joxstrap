@@ -1,2 +1,2 @@
 # Joxstrap
-Understrap theme for WordPress Website
+Understrap theme for JoxPress Digital Studio Website
